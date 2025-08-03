@@ -1,0 +1,12 @@
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\bin\Debug\ismsg.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\bin\Debug\ismsg.pdb
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\bin\Debug\ismsg.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.Form1.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.Resources.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.vbproj.GenerateResource.Cache
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\ismsg\obj\x86\Debug\ismsg.pdb
+C:\Users\Umut\Desktop\ismsg\ismsg\obj\x86\Debug\ismsg.exe
+C:\Users\Umut\Desktop\ismsg\ismsg\obj\x86\Debug\ismsg.xml
+C:\Users\Umut\Desktop\ismsg\ismsg\obj\x86\Debug\ismsg.pdb

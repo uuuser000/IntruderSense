@@ -1,0 +1,36 @@
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\bin\Debug\isinstall.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\bin\Debug\isinstall.pdb
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\bin\Debug\isinstall.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.Form1.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.Resources.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.vbproj.GenerateResource.Cache
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\isinstall\obj\x86\Debug\isinstall.pdb
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.xml
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.pdb
+C:\Users\Umut\Desktop\isinstall\isinstall\bin\Debug\isinstall.exe
+C:\Users\Umut\Desktop\isinstall\isinstall\bin\Debug\isinstall.pdb
+C:\Users\Umut\Desktop\isinstall\isinstall\bin\Debug\isinstall.xml
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.Form1.resources
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.Resources.resources
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.vbproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\isinstall\isinstall\obj\x86\Debug\isinstall.exe
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.exe
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.xml
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.pdb
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.exe
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.pdb
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.xml
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.Form1.resources
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.Resources.resources
+C:\Users\zurna\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.vbproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.exe
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.xml
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.pdb
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.exe
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.pdb
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\bin\Debug\isinstall.xml
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.Form1.resources
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.Resources.resources
+C:\Users\Umut\Desktop\isproj\isinstall\isinstall\obj\x86\Debug\isinstall.vbproj.GenerateResource.Cache

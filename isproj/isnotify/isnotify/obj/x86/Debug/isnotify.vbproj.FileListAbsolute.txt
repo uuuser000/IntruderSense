@@ -1,0 +1,9 @@
+C:\Users\Umut\Desktop\isnotify\isnotify\bin\Debug\isnotify.exe
+C:\Users\Umut\Desktop\isnotify\isnotify\bin\Debug\isnotify.pdb
+C:\Users\Umut\Desktop\isnotify\isnotify\bin\Debug\isnotify.xml
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.Form1.resources
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.Resources.resources
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.vbproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.exe
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.xml
+C:\Users\Umut\Desktop\isnotify\isnotify\obj\x86\Debug\isnotify.pdb

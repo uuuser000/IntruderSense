@@ -1,0 +1,64 @@
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\bin\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\bin\Debug\IntruderSenseNew.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.Resources.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.vbproj.GenerateResource.Cache
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.exe
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.xml
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.svcwindow.resources
+C:\Users\Umut\AppData\Local\Temporary Projects\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MainForm.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.exe
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.xml
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.xml
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MainForm.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.Resources.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.svcwindow.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.vbproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.splash.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MsgConfig.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe.config
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MacroDialog.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.OtherSettings.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.uaTextBox.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.CommonDialog.resources
+C:\Users\Umut\Desktop\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.RunProcessDialog.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe.config
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.exe
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.xml
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe.config
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.exe
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.xml
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.pdb
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.xml
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.CommonDialog.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MacroDialog.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MainForm.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MsgConfig.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.Resources.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.OtherSettings.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.RunProcessDialog.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.splash.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.svcwindow.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.uaTextBox.resources
+C:\Users\Umut\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.vbproj.GenerateResource.Cache
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.exe
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.pdb
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\bin\Debug\IntruderSenseNew.xml
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.CommonDialog.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MacroDialog.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MainForm.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.MsgConfig.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.Resources.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.OtherSettings.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.RunProcessDialog.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.splash.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.svcwindow.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.uaTextBox.resources
+C:\Users\zurna\Desktop\isproj\IntruderSenseNew\IntruderSenseNew\obj\x86\Debug\IntruderSenseNew.vbproj.GenerateResource.Cache
