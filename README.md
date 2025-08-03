@@ -1,6 +1,4 @@
 Projenin kurulumu ve kaldırılması çok basittir. kurulum.exe dosyasını çalıştırarak kolayca kurulum yapabilirsiniz.
-
-Adımlar:
 Kurulum:
 
 kurulum.exe dosyasını indirin ve çalıştırın.
